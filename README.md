@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset/data
 - Revenue Analysis
 - Sales Channel Insights
 - Product Performance Analysis
-- Iventory and Shelf Life Monitoring
+- Inventory and Shelf Life Monitoring
 - Farm Operations Analytics
 - Geographic Analysis
 
